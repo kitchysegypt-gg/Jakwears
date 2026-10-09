@@ -1,0 +1,49 @@
+{
+  "exportedAt": "2026-10-09",
+  "shop": {
+    "name": "Jakwears",
+    "url": "https://www.jakwears.com",
+    "email": "info@jakwears.com",
+    "phone": "+20 10 95321045",
+    "address": "Jakwears, بجوار مسجد النور, Imbaba, Giza 12651, Egypt",
+    "currency": "EGP",
+    "policies": [
+      {
+        "title": "Privacy policy",
+        "url": "https://checkout.shopify.com/69966495792/policies/38131138608.html?locale=en"
+      }
+    ]
+  },
+  "collections": [
+    { "id": "309848473648", "title": "Home page", "handle": "frontpage", "browsable": false },
+    { "id": "309886189616", "title": "OVER SIZE TEES", "handle": "over-size-tees", "browsable": true },
+    { "id": "309886222384", "title": "BOXY TEES", "handle": "boxy-tees", "browsable": true },
+    { "id": "309886287920", "title": "TOP TANKS", "handle": "top-tanks", "browsable": true },
+    { "id": "309886320688", "title": "BASIC TEES", "handle": "basics", "browsable": true },
+    { "id": "309886353456", "title": "ACID WASHED", "handle": "acid-washed", "browsable": true },
+    { "id": "309886615600", "title": "ESSINTIAL SHIRTS", "handle": "essintial-shirts", "browsable": true },
+    { "id": "309887041584", "title": "DENIM", "handle": "denim", "browsable": true },
+    { "id": "309887631408", "title": "PANTS", "handle": "pants", "browsable": true },
+    { "id": "309887893552", "title": "SHORTS", "handle": "shorts", "browsable": true },
+    { "id": "309893529648", "title": "All Products", "handle": "all", "browsable": false },
+    { "id": "310022242352", "title": "TEES", "handle": "tees", "browsable": true },
+    { "id": "310055862320", "title": "boxeies", "handle": "boxeies", "browsable": true },
+    { "id": "310055960624", "title": "overs", "handle": "overs", "browsable": true },
+    { "id": "310078111792", "title": "all collections", "handle": "all-collections", "browsable": false },
+    { "id": "310624190512", "title": "BASIC TEES", "handle": "basic-tees", "browsable": true },
+    { "id": "491025563696", "title": "BOXY HOODIES", "handle": "boxy-hoodies", "browsable": true },
+    { "id": "491025596464", "title": "OVER HOODIES", "handle": "over-hoodies", "browsable": true },
+    { "id": "491025662000", "title": "CREW NICK", "handle": "crew-nick", "browsable": true },
+    { "id": "491025694768", "title": "PANTS", "handle": "pants-1", "browsable": true },
+    { "id": "491025727536", "title": "ZIP UP", "handle": "zip-up", "browsable": true },
+    { "id": "491025760304", "title": "ACID WASHED", "handle": "acid-washed-1", "browsable": true },
+    { "id": "491025858608", "title": "BOX FIT HOODIES (W26)", "handle": "box-fit-hoodies-w26", "browsable": true },
+    { "id": "491025891376", "title": "OVER SIZED HOODIES (W26)", "handle": "over-sized-hoodies-w26", "browsable": true },
+    { "id": "491025924144", "title": "QUARTER ZIPPER", "handle": "quarter-zipper", "browsable": true },
+    { "id": "491026251824", "title": "BOXIES", "handle": "hoodies", "browsable": true },
+    { "id": "491029233712", "title": "WIN '26", "handle": "win-26", "browsable": true },
+    { "id": "491029397552", "title": "WIN '27", "handle": "win-27", "browsable": true },
+    { "id": "491029823536", "title": "SUMMER '26", "handle": "summer-26", "browsable": true },
+    { "id": "491031003184", "title": "CAMO", "handle": "camo", "browsable": true }
+  ]
+}

@@ -2,7 +2,23 @@
 
 Expo (React Native) shopping app for [jakwears.com](https://www.jakwears.com), built from the Jakwears Shopify store's catalog. Runs in **Expo Go** on iOS and Android, and on the web.
 
-## Run it
+## Install on Android
+
+Download [`releases/Jakwears-1.0.0.apk`](releases/Jakwears-1.0.0.apk) on your phone (tap **View raw** / the download button on GitHub), open it, and allow installing from this source when Android asks. Works on any ARM Android phone running Android 7.0 or newer.
+
+The APK is signed with a development key, so it is fine for sharing directly but cannot be uploaded to Google Play as-is.
+
+### Rebuilding the APK
+
+Needs JDK 17+ and the Android SDK (platform 36, build-tools 36.0.0, NDK 27.1.12297006):
+
+```bash
+npx expo prebuild --platform android
+cd android && ./gradlew assembleRelease
+# output: android/app/build/outputs/apk/release/app-release.apk
+```
+
+## Run in development
 
 ```bash
 npm install
